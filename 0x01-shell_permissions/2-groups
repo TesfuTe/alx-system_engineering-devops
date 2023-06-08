@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$USER %s\n" $(groups)
+printf"$USER %s\n"$(groups)
